@@ -14,8 +14,9 @@
   "author": {
     "name": "Markus Wiegand",
     "email": "mail@morphy2k.io",
-    "url": "https://github.com/morphy2k
+    "url": "https://github.com/morphy2k"
   },
+  "repository": "https://github.com/morphy2k/ayu-dark-mod-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
