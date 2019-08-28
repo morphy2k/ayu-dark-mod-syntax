@@ -1,0 +1,23 @@
+{
+  "name": "ayu-dark-mod-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Imported tmTheme for Ayu-Dark on Atom, modified",
+  "keywords": [
+    "syntax",
+    "theme",
+    "ayu",
+    "dark",
+    "mod",
+    "modification"
+  ],
+  "author": {
+    "name": "Markus Wiegand",
+    "email": "mail@morphy2k.io",
+    "url": "https://github.com/morphy2k
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
